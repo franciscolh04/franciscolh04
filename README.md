@@ -15,7 +15,7 @@
 
 # GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franciscolh04&theme=default" alt="franciscolh04" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franciscolh04&theme=hacker" alt="franciscolh04" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=franciscolh04&show_icons=true&locale=en&theme=dark" alt="franciscolh04" /></p>
 
