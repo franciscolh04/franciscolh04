@@ -3,7 +3,7 @@
 # Welcome
 
 
-**I'm a Computer Science and Engineering student at [Instituto Superior Técnico](https://tecnico.ulisboa.pt)**
+**Computer Science and Engineering student at [Instituto Superior Técnico](https://tecnico.ulisboa.pt)**
 
 <br>
 
