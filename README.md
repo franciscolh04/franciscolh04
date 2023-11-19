@@ -1,10 +1,6 @@
 <div align="center">
 
 # Welcome
-
-
-**Computer Science and Engineering student at [Instituto Superior Técnico](https://tecnico.ulisboa.pt)**
-
 <br>
 
 # Languages:
