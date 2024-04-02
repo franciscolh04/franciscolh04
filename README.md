@@ -5,7 +5,6 @@
 
 # Languages:
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscolh04&show_icons=true&locale=en&layout=compact&theme=dark&hide=shell" alt="franciscolh04" /></p>
 
 <br>
 
