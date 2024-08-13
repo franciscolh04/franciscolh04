@@ -32,7 +32,7 @@ Take a look at my GitHub activity and contributions:
 ### 🌐 Connect with Me
 Feel free to explore my repositories and get in touch!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/franciscolh04)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:francisco.l.heleno@tecnico.ulisboa.pt)
 
 </div>
