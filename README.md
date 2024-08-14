@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Hello, I'm Francisco!
+# 👋 Hello, I'm Francisco! 🇵🇹
 
 **Welcome to my GitHub profile!**  
-I'm passionate about coding, technology, and always eager to learn new things.
+I'm CSE student passionate about coding, technology, and always eager to learn new things.
 
 ---
 
