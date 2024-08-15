@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Francisco! 🇵🇹
 
 **Welcome to my GitHub profile!**  
-I'm CSE student passionate about coding, technology, and always eager to learn new things.
+I'm a CSE student passionate about coding, technology, and always eager to learn new things.
 
 ---
 
