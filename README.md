@@ -36,4 +36,6 @@ Feel free to explore my repositories and get in touch!
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:francisco.l.heleno@tecnico.ulisboa.pt)
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=franciscolh04)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/franciscolh04&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
+
 </div>
