@@ -1,3 +1,5 @@
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=franciscolh04)
+
 <div align="center">
 
 # 👋 Hello, I'm Francisco! 🇵🇹
