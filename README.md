@@ -1,5 +1,3 @@
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=franciscolh04)
-
 <div align="center">
 
 # 👋 Hello, I'm Francisco! 🇵🇹
@@ -37,4 +35,5 @@ Feel free to explore my repositories and get in touch!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/franciscolh04)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:francisco.l.heleno@tecnico.ulisboa.pt)
 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=franciscolh04)
 </div>
