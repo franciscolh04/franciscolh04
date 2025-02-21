@@ -11,7 +11,7 @@ I'm a CSE student passionate about coding, technology, and always eager to learn
 Here are the technologies and languages I work with the most:
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscolh04&show_icons=true&locale=en&layout=compact&theme=dark&hide=shell" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscolh04&show_icons=true&locale=en&layout=compact&theme=dark&hide=shell,jupyter%20notebook" alt="Most Used Languages" />
 </p>
 
 ---
